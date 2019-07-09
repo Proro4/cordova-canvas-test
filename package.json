@@ -1,0 +1,40 @@
+{
+  "name": "cordova-template-framework7-vue-webpack",
+  "version": "2.4.2",
+  "description": "Cordova template with framework7, vue 2 and webpack 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Err: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiobiodere/cordova-template-framework7-vue-webpack.git"
+  },
+  "homepage": "https://github.com/caiobiodere/cordova-template-framework7-vue-webpack",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template",
+    "cordova-template",
+    "template",
+    "webpack",
+    "vue.js",
+    "vue",
+    "mobile",
+    "framework",
+    "framework7",
+    "ios",
+    "iphone",
+    "ipad",
+    "apple",
+    "phonegap",
+    "touch",
+    "app",
+    "f7",
+    "material",
+    "android"
+  ],
+  "author": "Caio Biodere",
+  "license": "Apache-2.0"
+}
